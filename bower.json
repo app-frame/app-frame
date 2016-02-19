@@ -1,6 +1,6 @@
 {
   "name": "app-frame",
-  "version": "0.0.5",
+  "version": "1.0.1",
   "homepage": "https://github.com/app-frame/app-frame",
   "authors": [
     "Adipat Larprattanakul <adipat.larprattanakul@thomsonreuters.com>"
@@ -21,6 +21,7 @@
     "package.json"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.0"
+    "polymer": "Polymer/polymer#^1.0",
+    "app-frame-titlebar": "^1.0.0"
   }
 }
