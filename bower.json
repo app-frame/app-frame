@@ -1,5 +1,6 @@
 {
   "name": "app-frame",
+  "version": "0.0.2",
   "homepage": "https://github.com/app-frame/app-frame",
   "authors": [
     "Adipat Larprattanakul <adipat.larprattanakul@thomsonreuters.com>"
@@ -15,6 +16,11 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
-  ]
+    "tests",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0"
+  }
 }

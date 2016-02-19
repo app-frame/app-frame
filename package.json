@@ -1,0 +1,28 @@
+{
+  "name": "app-frame",
+  "version": "0.0.1",
+  "description": "App Frame Component",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/app-frame/app-frame.git"
+  },
+  "keywords": [
+    "app-frame"
+  ],
+  "author": "Adipat Larprattanakul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/app-frame/app-frame/issues"
+  },
+  "scripts": {
+    "predeploy": "npm install",
+    "deploy": "grunt"
+  },
+  "homepage": "https://github.com/app-frame/app-frame#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bump": "^0.7.0",
+    "grunt-cli": "^0.1.13",
+    "load-grunt-tasks": "^3.4.0"
+  }
+}
