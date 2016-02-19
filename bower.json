@@ -1,0 +1,21 @@
+{
+  "name": "app-frame",
+  "version": "0.0.1",
+  "homepage": "https://github.com/app-frame/app-frame",
+  "authors": [
+    "Adipat Larprattanakul <adipat.larprattanakul@thomsonreuters.com>"
+  ],
+  "description": "Polymer element for creating Application Frame for Windowless Application",
+  "main": "app-frame.html",
+  "keywords": [
+    "app-frame"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
